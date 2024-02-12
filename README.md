@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Kishan Dubey
-- 👀 I’m interested in PHP, LARAVEL, Java, UI-UX
-- 🌱 I’m Completed Msc it
-- 💞️ I’m looking to collaborate on Software Engineer
+- 👀 Worked in PHP, LARAVEL, Java, UI-UX, Shopify
+- 🌱 I have Full stack web developer & UI/UX experience.
 - 📫 Contact me on mr.kishan125@gmail.com
